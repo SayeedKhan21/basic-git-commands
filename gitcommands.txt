@@ -1,0 +1,31 @@
+ git init   = Initializes empty git repostitory
+
+ mkdir <dir name> = creates a new folder
+
+ rm -r <dir name>  = deletes a folder
+
+ rm -rf <file name> = delets a file
+
+ cd   =  shows the current directory/folder
+
+ ls  =  shows files in a folder
+
+ ls -a shows all the hidden files
+
+ touch  =  creates a new file
+
+git add .  =  put all files in  staging area
+
+git add <filename>  = puts the file in staging area
+
+cat <filename> = shows contents of a file
+
+git rm --cached <file>= removes the file from staging area
+
+git reset <id of the commit where you need to move>
+
+git stash 
+
+git stash pop
+
+git stash clean
